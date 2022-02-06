@@ -2,7 +2,7 @@
 
 echo "Geando números aleatórios em PHP \n";
 
-//Variáveis $n1 e $n2 com número aleatório gerado pelo método "rand"
+//Variáveis $n1 e $n2 com número aleatório gerado pelo método "rand" de 1 a 9
 $n1 = rand(1,9);
 $n2 = rand(1,9);
 
